@@ -8,7 +8,7 @@
     return;
   }
 
-  const QX999_PASSWORD = "Sajol@40";
+  const QX999_PASSWORD = "sajol123@#";
   const PW_STORAGE_KEY = "qx999_saved_password";
 
   function getSavedPassword() {
@@ -160,7 +160,7 @@
 
   const LOGO_URL =
     "https://i.postimg.cc/HkpP5WCd/IMG-20260918-071711-932.jpg";
-  const LABEL = "SAJOL BHAI";
+  const LABEL = "SAJOL TRADER";
   const STORAGE_KEY = "qx999_settings_v1";
   const TAP_REQUIRED = 3;
   const TAP_SETTLE_MS = 380;

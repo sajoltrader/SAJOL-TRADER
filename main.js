@@ -160,7 +160,7 @@
 
   const LOGO_URL =
     "https://i.postimg.cc/HkpP5WCd/IMG-20260918-071711-932.jpg";
-  const LABEL = "SAJOL TRADER";
+  const LABEL = "SAJOL BHAI";
   const STORAGE_KEY = "qx999_settings_v1";
   const TAP_REQUIRED = 3;
   const TAP_SETTLE_MS = 380;
